@@ -9,7 +9,7 @@ Rana Yugal,
 Pokharel Sohan,
 Pun Sharada,
 Karki Chettri Surjeet.
-<img src="https://static.vecteezy.com/system/resources/thumbnails/005/441/358/small_2x/inventory-management-with-goods-demand-and-stock-supply-tiny-person-concept-vector.jpg"  type="png/jpg" height="200px" width="200px">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/005/441/358/small_2x/inventory-management-with-goods-demand-and-stock-supply-tiny-person-concept-vector.jpg"  type="png/jpg" height="400px" width="400px">
 </br>
 <h4>Team Members</h4></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
