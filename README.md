@@ -27,5 +27,5 @@ Karki Chettri Surjeet.
 </a></br>
 </br>
 <b>Project Progress</b>
-
+<img src="<img src="https://static.vecteezy.com/system/resources/thumbnails/005/441/358/small_2x/inventory-management-with-goods-demand-and-stock-supply-tiny-person-concept-vector.jpg"  type="png/jpg" height="400px" width="400px">"  type="png/jpg" height="400px" width="400px">
 </br>
