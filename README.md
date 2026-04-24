@@ -9,7 +9,7 @@ Rana Yugal,
 Pokharel Sohan,
 Pun Sharada,
 Karki Chettri Surjeet.
-<img src="C:\Users\Thinkbook\OneDrive\Desktop\inv.jpeg" type="png/jpg" height="100px" width="800px">
+<img src="C:\Users\Thinkbook\OneDrive\Desktop\inv.jpeg" type="png/jpg" height="300px" width="300px">
 </br>
 <h4>Team Members</h4></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
