@@ -8,12 +8,12 @@ Project Contributors :
 Rana Yugal,
 Pokharel Sohan,
 Pun Sharada,
-Karki Chettri Surjeet
+Karki Chettri Surjeet.
 
 
 
 </br>
-<b>Team Members</b></br>
+<h4>Team Members</h4></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
   <img align="left" alt="Pokharel Sohan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a></br>
