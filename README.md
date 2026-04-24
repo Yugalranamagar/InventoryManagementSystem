@@ -13,7 +13,7 @@ Karki Chettri Surjeet
 
 
 </br>
-<b>Team Members</b>
+<b>Team Members</b></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
   <img align="left" alt="Pokharel Sohan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
