@@ -27,5 +27,5 @@ Karki Chettri Surjeet.
 </a></br>
 </br>
 <b>Project Progress</b>
-<img src="https://www.pinterest.com/pin/loading-download-vector-png-images-download-loading-png-download-loading-download-loading-png-image-for-free-download--393783561188443793/"  type="png/jpg" height="400px" width="400px">
+<img src="https://cdn.vectorstock.com/i/1000v/58/31/circular-loading-icon-vector-24545831.avif"  type="png/jpg" height="400px" width="400px">
 </br>
