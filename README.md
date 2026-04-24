@@ -5,15 +5,15 @@ The system is very user friendly .
 The project will be developed by all our member.
 The Front end, backend and UI/UX design is separetly designed by each member.
 Project Contributors :
-Rana Yugal
-Pokharel Sohan
-Pun Sharada
+Rana Yugal,
+Pokharel Sohan,
+Pun Sharada,
 Karki Chettri Surjeet
 
 
 
 </br>
 <b>Team Members</b>
-<a href="https://github.com/Sohan-Pokharel">
-  <img align="left" alt="Pokharel | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
+  <img align="left" alt="Pokharel Sohan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
