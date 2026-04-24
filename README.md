@@ -16,4 +16,13 @@ Karki Chettri Surjeet
 <b>Team Members</b></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
   <img align="left" alt="Pokharel Sohan | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a></br>
+<a href="https://github.com/punsharada">Pun Sharada
+  <img align="left" alt="Pun Sharada | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a></br>
+<a href="https://github.com/yugalranamagar">Rana Yugal
+  <img align="left" alt="Pun Sharada | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a></br>
+<a href="https://github.com/punsharada">Karki Chhetri Surjeet
+  <img align="left" alt="Karki Chhetri Surjeet | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a></br>
