@@ -27,5 +27,5 @@ Karki Chettri Surjeet.
 </a></br>
 </br>
 <b>Project Progress</b>
-<img src="https://stock.adobe.com/kr/search?k=%22progress+percentage%22&asset_id=1849041942"  type="png/jpg" height="400px" width="400px">
+<img src="https://www.pinterest.com/pin/loading-download-vector-png-images-download-loading-png-download-loading-download-loading-png-image-for-free-download--393783561188443793/"  type="png/jpg" height="400px" width="400px">
 </br>
