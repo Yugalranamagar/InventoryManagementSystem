@@ -10,8 +10,6 @@ Pokharel Sohan,
 Pun Sharada,
 Karki Chettri Surjeet.
 
-
-
 </br>
 <h4>Team Members</h4></br>
 <a href="https://github.com/Sohan-Pokharel">Pokharel Sohan
