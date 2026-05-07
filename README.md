@@ -39,6 +39,8 @@ Karki Chettri Surjeet.
   <li>✅ Admin Dashboard with Reports</li>
   <li>✅ User Authentication System</li>
   <li>✅ Print Invoices & Reports</li>
+</ul></br>
+</br>
 <b>🛠️ Technologies Used </b>
   <ul>
  <li>PHP 💻 – Backend Logic </li> 
