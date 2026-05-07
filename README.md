@@ -26,6 +26,20 @@ Karki Chettri Surjeet.
   <img align="left" alt="Karki Chhetri Surjeet | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a></br>
 </br>
+<h2> 
+  📦 Inventory Management System 
+A powerful and user-friendly Inventory Management System built with PHP and MySQL to help you manage products, stock, suppliers, and sales with ease. Ideal for businesses of all sizes looking to maintain accurate inventory records and improve operational efficiency.</h2>
+<b>🚀 Features</b>
+<ul>
+  <li>✅ Product Management (Add, Edit, Delete)
+✅ Stock In / Stock Out Tracking
+✅ Supplier Management
+✅ Purchase & Sales Record Keeping
+✅ Category Management
+✅ Real-time Inventory Status
+✅ Admin Dashboard with Reports
+✅ User Authentication System
+✅ Print Invoices & Reports</li>
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
