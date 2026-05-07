@@ -30,15 +30,15 @@ Karki Chettri Surjeet.
 <p>A powerful and user-friendly Inventory Management System built with PHP and MySQL to help you manage products, stock, suppliers, and sales with ease. Ideal for businesses of all sizes looking to maintain accurate inventory records and improve operational efficiency.</p>
 <b>🚀 Features</b>
 <ul>
-  <li>✅ Product Management (Add, Edit, Delete)
-✅ Stock In / Stock Out Tracking
-✅ Supplier Management
-✅ Purchase & Sales Record Keeping
-✅ Category Management
-✅ Real-time Inventory Status
-✅ Admin Dashboard with Reports
-✅ User Authentication System
-✅ Print Invoices & Reports</li>
+  <li>✅ Product Management (Add, Edit, Delete)</li>
+  <li>✅ Stock In / Stock Out Tracking</li>
+  <li>✅ Supplier Management</li>
+  <li>✅ Purchase & Sales Record Keeping</li>
+  <li>✅ Category Management</li>
+  <li>✅ Real-time Inventory Status</li>
+  <li>✅ Admin Dashboard with Reports</li>
+  <li>✅ User Authentication System</li>
+  <li>✅ Print Invoices & Reports</li>
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
