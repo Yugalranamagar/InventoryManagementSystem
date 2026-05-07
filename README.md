@@ -39,6 +39,13 @@ Karki Chettri Surjeet.
   <li>✅ Admin Dashboard with Reports</li>
   <li>✅ User Authentication System</li>
   <li>✅ Print Invoices & Reports</li>
+<b>🛠️ Technologies Used </b>
+  PHP 💻 – Backend Logic
+MySQL 🗃️ – Database
+HTML/CSS/JS 🖥️ – UI/UX
+Bootstrap 🎨 – Responsive Design
+XAMPP 🔥 – Localhost Server
+PHPMYADMIN – Database Control Panel
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
