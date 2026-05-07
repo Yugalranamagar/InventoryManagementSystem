@@ -53,4 +53,6 @@ Karki Chettri Surjeet.
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
+<p>Front end developement is on the process</p>
+<P>Login and credentials phase is also on the process</P>
 </br>
