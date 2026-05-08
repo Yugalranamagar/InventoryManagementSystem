@@ -70,7 +70,7 @@ Karki Chettri Surjeet.
     Click import
     Choose:</br>
 6️⃣ Launch the System
-    Go to:
+    Go to: your localhost server
   </p>
   
   </br>
