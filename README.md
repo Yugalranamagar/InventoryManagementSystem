@@ -52,7 +52,7 @@ Karki Chettri Surjeet.
   </ul>
   </br>
   <b> Installing and setup process </b>
-  
+  </br>
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
