@@ -53,9 +53,9 @@ Karki Chettri Surjeet.
   </br>
   <b> Installing and setup process</b> </b></br>
   <p>
-    📥 Installation Steps
+📥 Installation Steps</br>
 1️⃣ Install XAMPP
-👉 Download XAMPP
+👉 Download XAMPP</br>
 
 2️⃣ Extract the Project
 
