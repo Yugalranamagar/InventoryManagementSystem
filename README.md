@@ -56,20 +56,18 @@ Karki Chettri Surjeet.
 📥 Installation Steps</br>
  1️⃣ Install XAMPP
     👉 Download XAMPP</br>
- 2️⃣ Extract the Project
-    Download the ZIP file
-    Extract the folder named inventory</br>
-3️⃣ Move to XAMPP Directory
+ 2️⃣ 
+ 3️⃣ Move to XAMPP Directory
     Copy the inventory folder
     Paste it into:
-4️⃣ Create Database
+ 4️⃣ Create Database
     Run XAMPP → Start Apache and MySQL
     Open browser → http://localhost/phpmyadmin
     Create a new database:</Br>
-5️⃣ Import Database 
+ 5️⃣ Import Database 
     Click import
     Choose:</br>
-6️⃣ Launch the System
+ 6️⃣ Launch the System
     Go to: your localhost server
   </p>
   
