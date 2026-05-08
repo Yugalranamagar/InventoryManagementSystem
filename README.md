@@ -60,18 +60,17 @@ Karki Chettri Surjeet.
     Download the ZIP file
     Extract the folder named inventory</br>
 3️⃣ Move to XAMPP Directory
-
-Copy the inventory folder
-Paste it into:
+    Copy the inventory folder
+    Paste it into:
 4️⃣ Create Database
 
 Run XAMPP → Start Apache and MySQL
 Open browser → http://localhost/phpmyadmin
-Create a new database:
+Create a new database:</Br>
 5️⃣ Import Database
 
 Click import
-Choose:
+Choose:</br>
 6️⃣ Launch the System
 
 Go to:
