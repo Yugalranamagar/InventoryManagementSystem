@@ -54,13 +54,11 @@ Karki Chettri Surjeet.
   <b> Installing and setup process</b> </b></br>
   <p>
 📥 Installation Steps</br>
-1️⃣ Install XAMPP
-👉 Download XAMPP</br>
-
-2️⃣ Extract the Project
-
-Download the ZIP file
-Extract the folder named inventory
+ 1️⃣ Install XAMPP
+    👉 Download XAMPP</br>
+ 2️⃣ Extract the Project
+    Download the ZIP file
+    Extract the folder named inventory</br>
 3️⃣ Move to XAMPP Directory
 
 Copy the inventory folder
