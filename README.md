@@ -51,7 +51,34 @@ Karki Chettri Surjeet.
 <li>PHPMYADMIN – Database Control Panel</li>
   </ul>
   </br>
-  <b> Installing and setup process </b></br>
+  <b> Installing and setup process</b> </b></br>
+  <p>
+    📥 Installation Steps
+1️⃣ Install XAMPP
+👉 Download XAMPP
+
+2️⃣ Extract the Project
+
+Download the ZIP file
+Extract the folder named inventory
+3️⃣ Move to XAMPP Directory
+
+Copy the inventory folder
+Paste it into:
+4️⃣ Create Database
+
+Run XAMPP → Start Apache and MySQL
+Open browser → http://localhost/phpmyadmin
+Create a new database:
+5️⃣ Import Database
+
+Click import
+Choose:
+6️⃣ Launch the System
+
+Go to:
+  </p>
+  
   </br>
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
