@@ -51,7 +51,7 @@ Karki Chettri Surjeet.
 <li>PHPMYADMIN – Database Control Panel</li>
   </ul>
   </br>
-  <b> Installing and setup process </b>
+  <b> Installing and setup process </b></br>
   </br>
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
