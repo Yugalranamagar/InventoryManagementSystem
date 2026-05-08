@@ -63,17 +63,14 @@ Karki Chettri Surjeet.
     Copy the inventory folder
     Paste it into:
 4️⃣ Create Database
-
-Run XAMPP → Start Apache and MySQL
-Open browser → http://localhost/phpmyadmin
-Create a new database:</Br>
-5️⃣ Import Database
-
-Click import
-Choose:</br>
+    Run XAMPP → Start Apache and MySQL
+    Open browser → http://localhost/phpmyadmin
+    Create a new database:</Br>
+5️⃣ Import Database 
+    Click import
+    Choose:</br>
 6️⃣ Launch the System
-
-Go to:
+    Go to:
   </p>
   
   </br>
