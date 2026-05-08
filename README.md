@@ -50,6 +50,9 @@ Karki Chettri Surjeet.
 <li>XAMPP 🔥 – Localhost Server</li>
 <li>PHPMYADMIN – Database Control Panel</li>
   </ul>
+  </br>
+  <b> Installing and setup process </b>
+  
 <b>Project Progress</b>
 <h6>Document Requirement</h6>
 <p>The document process is completed ⌛</p>
